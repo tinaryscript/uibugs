@@ -18,9 +18,11 @@ extentions:
 
 #### 1.1- `bugs` table structure:
 ![image](https://github.com/ittid/uibugs/assets/44928080/90f0421f-4f57-4360-bc2d-594a190b89ed)
+![image](https://github.com/ittid/uibugs/assets/44928080/99efd561-9324-4a5a-8a2d-dcfe0ef9dccd)
 
 #### 1.2- `follower_following` table structure:
 ![image](https://github.com/ittid/uibugs/assets/44928080/c210a7b2-fe45-4bcc-8edd-68e575b3a674)
+![image](https://github.com/ittid/uibugs/assets/44928080/5535c3e2-8085-4c8e-b3ad-b758646a1469)
 
 #### 1.3- `users` table structure:
 ![image](https://github.com/ittid/uibugs/assets/44928080/79d1bf48-3e00-458d-9377-99064d69ea1d)
