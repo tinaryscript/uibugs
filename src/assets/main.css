@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+  /* font-family: "DM Serif Display", serif; */
+  font-weight: 400;
+  font-style: normal;
+  background-color: #f9f3f2;
+  color: #1c1b1a; /* //#f8e2cf */
+}
+
+.auth_wrapper {
+  display: flex;
+  flex-direction: column;
+  margin: 3em 0;
+  gap: 2em;
+}
+
+::selection {
+  background-color: #5a43f187;
+  color: #FFF;
+}
+
+.hr {
+  border: 1px dashed rgba(143, 143, 143, 0.216);
+  margin: 1.3em 0;
+}

@@ -1,0 +1,6 @@
+// Database Password: E5xSQlnBq1pKqW7v
+import { createClient } from "@supabase/supabase-js";
+const { VITE_SUPABASE_URL, VITE_SUPABASE_KEY } = import.meta.env;
+const supabaseURL = VITE_SUPABASE_URL;
+const supabaseKey = VITE_SUPABASE_KEY;
+export const supabase = createClient(supabaseURL, supabaseKey);
