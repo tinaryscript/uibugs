@@ -1,3 +1,6 @@
+## note:
+the preview is no longer available, please try to create your own database in supabase platform 
+
 ## uibugs
 uibugs is a platform that give you the possibility to showcase bugs in large and popular websites and apps.
 
