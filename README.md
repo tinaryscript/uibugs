@@ -16,6 +16,8 @@ extentions:
 - VITE_BASE_PHOTO_URL="SUPABASE PHOTO URL"
 
 ### **supabase**
+- [url](https://supabase.com/)
+
 #### 1-  your need to have those tables:
 ![image](https://github.com/ittid/uibugs/assets/44928080/fe2f07a4-1987-475b-bbc7-d5ee08345bec)
 
@@ -30,7 +32,7 @@ extentions:
 #### 1.3- `users` table structure:
 ![image](https://github.com/ittid/uibugs/assets/44928080/79d1bf48-3e00-458d-9377-99064d69ea1d)
 
-#### 1.4- create a buckets bu the name of `images` & then create a folder `/public` inside them
+#### 1.4- Create a buckets by the name of `images` And then create a folder named `/public` inside them
 
 ## Installation
 #### `npm run dev` 
